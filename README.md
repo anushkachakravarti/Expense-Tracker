@@ -2,6 +2,16 @@
 
 A Python-based Expense Tracker application that helps users record, view, search, and manage their daily expenses using file handling.
 
+## Key Questions & Problems Solved
+
+This application was built to help users answer everyday personal finance questions without manual spreadsheets:
+
+- **Spending Visibility:** Where is my money going across different dates, descriptions, and categories?
+- **Category Breakdown:** How much have I spent in a specific category (such as food, travel, or utilities)?
+- **Total Expenditure:** What is my overall spending total across all recorded expenses?
+- **Record Management:** How can incorrect or duplicate expense entries be easily reviewed and removed?
+- **Persistent Tracking:** How can daily expense logs be saved automatically to a file so financial history stays intact between sessions?
+
 ## Features
 
 - Add Expense: Record expenses with date, category, description, and amount.
